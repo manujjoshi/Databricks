@@ -11,4 +11,4 @@ Practical guide: https://databricks-academy.github.io/data-analysis-with-databri
 
 ### Happy Learning!!
 Updated as of: 5/8/2022
-Training Authority: Celebal Technologies
+## Repo: In creation phase
