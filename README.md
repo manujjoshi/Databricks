@@ -4,6 +4,11 @@
 ### 3. F1 Project with Databricks
 ### 4. Machine Learning with Databricks
 Practical guide: https://github.com/databricks-academy/scalable-machine-learning-with-apache-spark
+- Create data processing pipelines with Spark.
+- Build and tune machine learning models with Spark ML.
+- Track, version, and deploy models with MLflow.
+- Perform distributed hyperparameter tuning with Hyperopt.
+- Use Spark to scale the inference of single-node models.
 ### 5. Data Analysis with Databricks SQL
 ### 6. Data Analysis with Databricks SQL Workshop by David Harris
 Practical guide: https://databricks-academy.github.io/data-analysis-with-databricks-sql/v1.1.5/
