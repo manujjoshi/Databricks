@@ -1,9 +1,22 @@
 # Sheets related to following topics: 
 ### 1. Data Engineering with Databricks
+Data professionals from all walks of life will benefit from this comprehensive introduction to the components of the Databricks Lakehouse Platform that directly support putting ETL pipelines into production. Students will leverage SQL and Python to define and schedule pipelines that incrementally process new data from a variety of data sources to power analytic applications and dashboards in the Lakehouse. This course offers hands-on instruction in Databricks Data Science & Engineering Workspace, Databricks SQL, Delta Live Tables, Databricks Repos, Databricks Task Orchestration, and the Unity Catalog.
+##### Objective:
+- Leverage the Databricks Lakehouse Platform to perform core responsibilities for data pipeline development
+- Use SQL and Python to write production data pipelines to extract, transform, and load data into tables and views in the Lakehouse
+- Simplify data ingestion and incremental change propagation using Databricks-native features and syntax, including Delta Live Tables
+- Orchestrate production pipelines to deliver fresh results for ad-hoc analytics and dashboarding
 ### 2. Spark Programming with Databricks
+##### Objective:
+- Identify core features of Spark and Databricks.
+- Describe how DataFrames are created and evaluated in Spark.
+- Apply the DataFrame transformation API to process and analyze data.
+- Demonstrate how Spark is optimized and executed on a cluster.
+- Apply Delta and Structured Streaming to process streaming data.
 ### 3. F1 Project with Databricks
 ### 4. Machine Learning with Databricks
 Practical guide: https://github.com/databricks-academy/scalable-machine-learning-with-apache-spark
+##### Objective:
 - Create data processing pipelines with Spark.
 - Build and tune machine learning models with Spark ML.
 - Track, version, and deploy models with MLflow.
