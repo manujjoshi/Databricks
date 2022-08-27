@@ -1,4 +1,4 @@
-# Sheets related to following topics: 
+# Databricks Repository: 
 ## 1. Data Engineering with Databricks
 Data professionals from all walks of life will benefit from this comprehensive introduction to the components of the Databricks Lakehouse Platform that directly support putting ETL pipelines into production. Students will leverage SQL and Python to define and schedule pipelines that incrementally process new data from a variety of data sources to power analytic applications and dashboards in the Lakehouse. This course offers hands-on instruction in Databricks Data Science & Engineering Workspace, Databricks SQL, Delta Live Tables, Databricks Repos, Databricks Task Orchestration, and the Unity Catalog.
 ##### Objective:
