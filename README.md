@@ -14,6 +14,8 @@ Data professionals from all walks of life will benefit from this comprehensive i
 - Demonstrate how Spark is optimized and executed on a cluster.
 - Apply Delta and Structured Streaming to process streaming data.
 ## 3. F1 Project with Databricks
+- Udemy course on Data Engineering with Databricks.
+- End to end execution.
 ## 4. Machine Learning with Databricks
 Practical guide: https://github.com/databricks-academy/scalable-machine-learning-with-apache-spark
 ##### Objective:
