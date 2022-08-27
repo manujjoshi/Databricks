@@ -31,5 +31,7 @@ Practical guide: https://databricks-academy.github.io/data-analysis-with-databri
 
 
 ### Happy Learning!!
-Updated as of: 5/8/2022
+Updated as of: 27/8/2022
 ## Repo: In creation phase
+### Cleared: 
+- Machine Learning Scientist Associate with Databricks
