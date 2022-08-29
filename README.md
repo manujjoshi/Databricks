@@ -1,4 +1,4 @@
-# Sheets related to following topics: 
+# Databricks Repository: 
 ## 1. Data Engineering with Databricks
 Data professionals from all walks of life will benefit from this comprehensive introduction to the components of the Databricks Lakehouse Platform that directly support putting ETL pipelines into production. Students will leverage SQL and Python to define and schedule pipelines that incrementally process new data from a variety of data sources to power analytic applications and dashboards in the Lakehouse. This course offers hands-on instruction in Databricks Data Science & Engineering Workspace, Databricks SQL, Delta Live Tables, Databricks Repos, Databricks Task Orchestration, and the Unity Catalog.
 ##### Objective:
@@ -14,6 +14,8 @@ Data professionals from all walks of life will benefit from this comprehensive i
 - Demonstrate how Spark is optimized and executed on a cluster.
 - Apply Delta and Structured Streaming to process streaming data.
 ## 3. F1 Project with Databricks
+- Udemy course on Data Engineering with Databricks.
+- End to end execution.
 ## 4. Machine Learning with Databricks
 Practical guide: https://github.com/databricks-academy/scalable-machine-learning-with-apache-spark
 ##### Objective:
@@ -29,5 +31,7 @@ Practical guide: https://databricks-academy.github.io/data-analysis-with-databri
 
 
 ### Happy Learning!!
-Updated as of: 5/8/2022
+Updated as of: 27/8/2022
 ## Repo: In creation phase
+### Cleared: 
+- Machine Learning Scientist Associate with Databricks
