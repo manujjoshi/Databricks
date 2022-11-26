@@ -17,9 +17,8 @@ Data professionals from all walks of life will benefit from this comprehensive i
 - Udemy course on Data Engineering with Databricks.
 - End to end execution.
 ## 4. Machine Learning with Databricks Associate
-## 5. Machine Learning with Databricks Professional
+
 Practical guide: https://github.com/databricks-academy/scalable-machine-learning-with-apache-spark
-<br>Practical guid: https://github.com/databricks-academy/ml-in-production-english
 ##### Objective:
 - Create data processing pipelines with Spark.
 - Build and tune machine learning models with Spark ML.
@@ -27,8 +26,10 @@ Practical guide: https://github.com/databricks-academy/scalable-machine-learning
 - Perform distributed hyperparameter tuning with Hyperopt.
 - Use Spark to scale the inference of single-node models.
 - Link to R2D3 visualization: http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
-## 5. Data Analysis with Databricks SQL
-## 6. Data Analysis with Databricks SQL Workshop by David Harris
+## 5. Machine Learning with Databricks Professional
+Practical guide: https://github.com/databricks-academy/ml-in-production-english
+## 6. Data Analysis with Databricks SQL
+## 7. Data Analysis with Databricks SQL Workshop by David Harris
 Practical guide: https://databricks-academy.github.io/data-analysis-with-databricks-sql/v1.1.5/
 
 
