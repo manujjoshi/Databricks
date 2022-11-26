@@ -16,8 +16,10 @@ Data professionals from all walks of life will benefit from this comprehensive i
 ## 3. F1 Project with Databricks
 - Udemy course on Data Engineering with Databricks.
 - End to end execution.
-## 4. Machine Learning with Databricks
+## 4. Machine Learning with Databricks Associate
+## 5. Machine Learning with Databricks Professional
 Practical guide: https://github.com/databricks-academy/scalable-machine-learning-with-apache-spark
+Practical guid: https://github.com/databricks-academy/ml-in-production-english
 ##### Objective:
 - Create data processing pipelines with Spark.
 - Build and tune machine learning models with Spark ML.
