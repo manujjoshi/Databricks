@@ -38,3 +38,4 @@ Updated as of: 27/8/2022
 ## Repo: In creation phase
 ### Cleared: 
 - Machine Learning Scientist Associate with Databricks
+- Machine Learning Scientist Professional with Databricks
